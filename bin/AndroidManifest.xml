@@ -31,7 +31,7 @@
         android:taskAffinity="net.micode.compass" >
         <activity
             android:label="@string/app_label"
-            android:name=".CompassActivity"
+            android:name="net.micode.compass.CompassActivity"
             android:screenOrientation="portrait"
             android:theme="@android:style/Theme.NoTitleBar" >
             <intent-filter >
